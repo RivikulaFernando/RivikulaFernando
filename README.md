@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFd5C4hqOaBRw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718456429573?e=1755129600&v=beta&t=axbQf0tR02JHk8-WNBzsoeSFcq4CN7vgd1dUo9KX7sY)" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/RivikulaFernando/RivikulaFernando/main/banner.jpeg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Rivikula Fernando</h1>
